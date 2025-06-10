@@ -1,13 +1,13 @@
 # Hi, I'm Robin Jeljoe 👋
 
-[cite_start]I am a passionate Information Technology student at Rajagiri School Of Engineering and Technology with a strong foundation in software development, cloud computing, and product management.  I am enthusiastic about leveraging my skills in Python, web development, and various frameworks to build innovative solutions.
+I am a passionate Information Technology student at Rajagiri School Of Engineering and Technology with a strong foundation in software development, cloud computing, and product management.  I am enthusiastic about leveraging my skills in Python, web development, and various frameworks to build innovative solutions.
 
 ## 🚀 Experience
 
 **Web Developer Intern | [cite_start]EVM Motors** 
 * Developed a website to visualize and sort inventories using Python for the backend and Supabase as the database. 
-* [cite_start]Gained experience with cloud computing technologies like AWS and Docker. 
-* [cite_start]**Technologies Used:** Python, Supabase, Docker, AWS, ChartJs, HTML 
+* Gained experience with cloud computing technologies like AWS and Docker. 
+* **Technologies Used:** Python, Supabase, Docker, AWS, ChartJs, HTML 
 
 **Student Intern | Nest Global**
 * Developed Python-based applications for various projects.
@@ -24,19 +24,19 @@
 
 ### SortEm | _Email Summarization and Sorting Web Application_
 * Developed an email summarization and sorting web application using NLP and NLI. 
-* [cite_start]The frontend was created with Python, HTML, and ThreeJS. 
-* [cite_start]The backend was built using NodeJS and Python. 
+* The frontend was created with Python, HTML, and ThreeJS. 
+* The backend was built using NodeJS and Python. 
 * Emails were fetched using IMAP and processed with the Hugging Face BART model. 
-* [cite_start]**Technologies:** HTML, Node.Js, IMAP, Oath2.0 
+* **Technologies:** HTML, Node.Js, IMAP, Oath2.0 
 
 ### QCut | _Queue Management Application_
 * Developed a mobile application named QCut using Flutter and Firebase to reduce queueing times in shopping malls and cafeterias.
-* [cite_start]Gained advanced knowledge in app development, web hosting, and NoSQL databases through this project. 
+* Gained advanced knowledge in app development, web hosting, and NoSQL databases through this project. 
 * **Technologies:** Flutter, Firebase, HTML
 
 ## 🌱 Learning & Development
 
-* [cite_start]**Certificate in Product Management:** Completed a comprehensive certification from Internshala, covering product planning, development, launch, and marketing. 
+* **Certificate in Product Management:** Completed a comprehensive certification from Internshala, covering product planning, development, launch, and marketing. 
 * **Workshop in Online Game Development:** Attended an intensive workshop at NIT Calicut, gaining hands-on experience in game design and development frameworks.
 
 ## 📫 Get In Touch
