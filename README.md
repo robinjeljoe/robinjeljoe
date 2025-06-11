@@ -6,5 +6,4 @@ I am a passionate Information Technology graduate from Rajagiri School Of Engine
 
 * **Email:** robinjeljoe@gmail.com
 * **LinkedIn:** [linkedin.com/in/robinjeljoe](https://linkedin.com/in/robinjeljoe)
-* **GitHub:** [github.com/robinjeljoe](https://github.com/robinjeljoe)
-* **Portfolio:** [robinjeljoe.tech](https://robinjeljoe.tech)
+* **Portfolio:** [robinjeljoe.tech](https://portfolio-8351f.web.app/)
